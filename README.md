@@ -1,6 +1,6 @@
 # ⚛️ Eigen OS
 
-**Eigen OS** — contract-first platform for hybrid quantum-classical workloads.
+**Eigen OS** — platform for hybrid quantum-classical workloads.
 
 It gives you a single flow to describe a job, submit it, track execution, and collect results across local simulators, runtime services, and backend drivers.
 
